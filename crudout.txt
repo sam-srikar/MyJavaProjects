@@ -1,0 +1,7 @@
+Initial size: 12 pounds, Days: 10, Final size: 24 pounds
+Initial size: 4 pounds, Days: 30, Final size: 52 pounds
+Initial size: 28 pounds, Days: 18, Final size: 84 pounds
+Initial size: 7 pounds, Days: 13, Final size: 14 pounds
+Initial size: 17 pounds, Days: 10, Final size: 34 pounds
+Initial size: 9 pounds, Days: 35, Final size: 189 pounds
+Initial size: 10 pounds, Days: 20, Final size: 50 pounds
